@@ -13,7 +13,11 @@
        
         
 
-        
+         printf("Counter 1 to 10\n");
+        for (int ii = 0; ii < 10; ii++)
+        {
+            printf("%d",ii);
+        }
         return 0;
     }
     
