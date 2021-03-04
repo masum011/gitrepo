@@ -5,9 +5,9 @@
         printf("Welcome\n");
         for (int i = 0; i < 10; i++)
         {
-            printf("%d\t",i);
+            printf("%d\t\n",i);
         }
-       
+       printf("Hello ,Git command\n");
         
         return 0;
     }
